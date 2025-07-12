@@ -1,2 +1,2 @@
 # FullstackPhpProject
-A project consisting in a fullstack website
+A full stack website that uses custom routing , sessions with cookies , functional registration and log-in
